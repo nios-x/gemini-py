@@ -7,7 +7,7 @@ import webbrowser
 engine = pyttsx3.init()
 
 # Replace with your actual API key
-API_KEY = "AIzaSyCW0LKcaWi64ZDTJ5S5GWfN5tEYVQjtz-k"
+
 GEMINI_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent'
 
 def listen():
